@@ -1,0 +1,16 @@
+Review comments
+
+1. No id/class with numbers (div_1, div_2 etc)
+2. No Inline style
+3. Give meaningful naming for Ids & classes
+4. Remove unnecessary classes and Ids (.block, .content)
+5. Merge left_chat and left_chat_name
+6. Redesign recent comments as discussed 
+7. Remove <hr> from Important notice
+8. copyright symbol 
+
+
+1. change div_row to row
+2. tbody, thead
+3. redesign right side chat
+4. Strictly no inline styling 

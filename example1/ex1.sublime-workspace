@@ -1,0 +1,488 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"tex",
+				"text-decoration-style"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"la",
+				"larger"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"height",
+				"height"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"secn",
+				"senario_1_expetec"
+			],
+			[
+				"def",
+				"defi\tdef initialize .."
+			],
+			[
+				"user",
+				"user_params"
+			],
+			[
+				"des",
+				"destination_2"
+			],
+			[
+				"lift",
+				"lift_working"
+			],
+			[
+				"dest",
+				"destination_2"
+			],
+			[
+				"pos",
+				"user_position_2"
+			],
+			[
+				"lift_",
+				"lift_simulation"
+			],
+			[
+				"de",
+				"destination_1"
+			],
+			[
+				"li",
+				"lift_arrival"
+			],
+			[
+				"use",
+				"user_position_2"
+			],
+			[
+				"us",
+				"user_position_1"
+			],
+			[
+				"if",
+				"ife\tif … else … end"
+			],
+			[
+				"user_position",
+				"user_position_1"
+			],
+			[
+				"i",
+				"ife\tif … else … end"
+			],
+			[
+				"ne",
+				"next_position_2"
+			],
+			[
+				"l",
+				"lift_arrival"
+			],
+			[
+				"ds",
+				"destination"
+			],
+			[
+				"move",
+				"move_up"
+			],
+			[
+				"mo",
+				"move_up"
+			],
+			[
+				"lif",
+				"lift_position"
+			],
+			[
+				"level",
+				"level_dwn"
+			],
+			[
+				"up",
+				"level_up"
+			],
+			[
+				"leve",
+				"level_up"
+			],
+			[
+				"un",
+				"until\tuntil ... end"
+			],
+			[
+				"le",
+				"level_1"
+			],
+			[
+				"p",
+				"puts"
+			],
+			[
+				"divi",
+				"divisible_by_5"
+			],
+			[
+				"divis",
+				"divisible_by_3"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 390.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: p",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: sea",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"Package Control: pla",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: add",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"Package Control: cr",
+				"Package Control: Create Package File"
+			],
+			[
+				"tas",
+				"Tasks: New document"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/media/lekshmi/New Volume/code/html-excercises/example1"
+	],
+	"file_history":
+	[
+		"/home/lekshmi/Downloads/index.html",
+		"/media/lekshmi/New Volume/code/ex1/template1.html",
+		"/media/lekshmi/New Volume/code/sample_page/products.html",
+		"/media/lekshmi/New Volume/code/sample_page/help.html",
+		"/media/lekshmi/New Volume/New folder/scenario_1 =",
+		"/home/lekshmi/Desktop/All mail Including Spam and Trash.mbox",
+		"/media/lekshmi/New Volume/code/sample_page/about_lotus.html",
+		"/media/lekshmi/New Volume/code/sample_page/lotus_sample.html",
+		"/home/lekshmi/Desktop/boo.html",
+		"/media/lekshmi/New Volume/code/sample_page/homepage.html",
+		"/media/lekshmi/New Volume/code/sample_page/untitled.html",
+		"/media/lekshmi/New Volume/code/web_test.html",
+		"/media/lekshmi/KK 2TB/Mac Backup/Documents/movies_to_download.md",
+		"/media/lekshmi/KK 2TB/Mac Backup/Documents/Srihariyude pennu kaanal",
+		"/media/lekshmi/KK 2TB/Mac Backup/dot files/kk.zsh",
+		"/media/lekshmi/KK 1TB/HP Laptop Backup/Linux drive/study/shoes/first.rb",
+		"/media/lekshmi/KK 1TB/$RECYCLE.BIN/S-1-5-21-1952289859-386820461-677070320-1001/desktop.ini",
+		"/media/lekshmi/KK 2TB/PERSONAL/My Personal Contacts/phone nos.txt",
+		"/home/lekshmi/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/lekshmi/.config/sublime-text-3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/home/lekshmi/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/lekshmi/.config/sublime-text-3/Packages/PlainTasks/PlainTasks (Linux).sublime-settings",
+		"/home/lekshmi/.config/sublime-text-3/Packages/User/PlainTasks/PlainTasks (Linux).sublime-settings",
+		"/home/lekshmi/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/lekshmi/.config/sublime-text-3/Packages/User/PlainTasks/messages/Tutorial.todo",
+		"/home/lekshmi/.config/sublime-text-3/Packages/PlainTasks/Default (Linux).sublime-keymap",
+		"/home/lekshmi/.config/sublime-text-3/Packages/thingstodo.todo",
+		"/home/lekshmi/.config/sublime-text-3/Packages/plain",
+		"/home/lekshmi/.config/sublime-text-3/Packages/User/ToDone.sublime-settings",
+		"/home/lekshmi/.config/sublime-text-3/Packages/ToDone/Settings/ToDone.sublime-settings",
+		"/home/lekshmi/.config/sublime-text-3/Packages/ToDone/readme.todo",
+		"/home/lekshmi/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/lekshmi/.config/sublime-text-3/Packages/PlainTasks/messages/things_at_home ",
+		"/home/lekshmi/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/lekshmi/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+		"/home/lekshmi/.config/sublime-text-3/Packages/User/PlainTasks.sublime-settings",
+		"/home/lekshmi/projects/ruby-excersises/lift.rb",
+		"/home/lekshmi/Documents/trials/exphi.java",
+		"/home/lekshmi/Documents/html +css/0837/style.css",
+		"/home/lekshmi/Documents/RUBY NOTES/untitled.rb",
+		"/home/lekshmi/testfile.rb",
+		"/home/lekshmi/Documents/html +css/0837/index.html",
+		"/home/lekshmi/projects/ruby excs/fizzbuzz.rb",
+		"/home/lekshmi/ruby.rb",
+		"/home/lekshmi/Desktop/fissbuzz.rb",
+		"/home/lekshmi/Downloads/0837 2.zip",
+		"/home/lekshmi/.cache/.fr-Hc7P5m/0837/style.css",
+		"/home/lekshmi/.cache/.fr-5EqBiC/0837/index.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"col_1",
+			"_1",
+			"id=",
+			"id",
+			" ",
+			"result <<",
+			"check",
+			"go_to",
+			"lift_arrival",
+			"go_to",
+			"ination_2",
+			"_position_2",
+			"destination_1",
+			"user_position_1",
+			"lift",
+			"go_to",
+			"lift_arrival",
+			"$",
+			"print",
+			"puts",
+			"uts",
+			"level_dwn",
+			"level_up",
+			"2",
+			"1",
+			"lim",
+			"divisible",
+			"puts",
+			"p%",
+			"p"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"destination_2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ex1.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
