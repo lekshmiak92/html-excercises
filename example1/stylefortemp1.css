@@ -158,13 +158,15 @@ body {
 #image_scroll {
   border: 5px solid;
   border-color: #428bca;
-  display: inline-flex;
+  /*display: inline-flex;*/
   float: left;
   height: 370px;
-  
+     width: 740px;
+    overflow: hidden; 
 }
 .img_property{
   width: 740px;
+  float: left;
 }
 
 .chat_panel {
@@ -538,4 +540,16 @@ h5 {
   text-align: right;
   border-top: 5px solid #9170E4;
   overflow: hidden;
+}
+ul.slide-wrap {
+    margin: 0px;
+    padding: 0px;
+    float: left;
+    width: 2320px
+}
+
+
+
+li.pull_left {
+    list-style-type: none;
 }

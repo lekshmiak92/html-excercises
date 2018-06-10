@@ -3,6 +3,8 @@
   <head>
     <link rel="stylesheet" href="./font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="./stylefortemp1.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script type="text/javascript" src="./scriptfortemp1.js"></script>
     <title>test_template</title>
   </head>
   <body>
@@ -68,7 +70,12 @@
         <div class="clearboth"></div>
         <div class="row" >
           <div  id="image_scroll" >
-            <img src="./pic1.jpg" class="img_property" ">
+            <ul class="slide-wrap">
+              <li class="pull_left"><img src="./pic1.jpg" class="img_property"></li>
+              <li class="pull_left"><img src="./pic2.jpg" class="img_property"></li>
+              <li class="pull_left"><img src="./pic3.jpg" class="img_property"></li>
+            </ul>
+
           </div>
           <div class="chat_panel">
             <div id="chat_panel_head"> recent chat history</div>
